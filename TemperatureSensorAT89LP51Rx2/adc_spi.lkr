@@ -1,6 +1,0 @@
-path=C:\Users\kiera\OneDrive\Desktop\CrossIDE\Call51\Bin\..\lib\small
-lib=libc51.lib
-lib=libint.lib
-lib=liblong.lib
-lib=libfloat.lib
-obj=adc_spi.obj
